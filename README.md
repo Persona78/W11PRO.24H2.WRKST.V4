@@ -1891,3 +1891,7 @@ It have my personal Wallpaper and customization.
 # Do not blame me if something goes wrong on your device!
 # !!! I always advise to do a clean install then restor your data!!!
 # Don´t complain if you don´t have done anything written above!!!
+
+-------------------------------------------------------------------------------------------------
+
+https://mega.nz/file/5BRhwIpT#kp39Z5eLOmm2Cqeoz8KQWp1CuLJKCfvlE1MZkLwmtx0
