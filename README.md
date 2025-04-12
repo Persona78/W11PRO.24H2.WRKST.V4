@@ -1883,17 +1883,17 @@ It have my personal Wallpaper and customization.
 
 -------------------------------------------------------------------------------------------------
 
-. Your warranty will be void!!!
-. Battery must be above 60% before install it!
-. I m not responsible for any bricked devices, dead SSDs, Hard drives or what ever!
-. YOU ARE CHOOSING to install this ISO with this modifications!
-. Before installing do backup from your personal data!
-. You can restore it if mess up or you don´t like it!
-. This is the MOD version that i have done for me and I like it like it is!!!
-. Do not blame me if something goes wrong on your device!
-. !!! I always advise to do a clean install then restore your data!!!
-. Don´t complain if you don´t have done anything written above!!!
+* Your warranty will be void!!!
+* Battery must be above 60% before install it!
+* I m not responsible for any bricked devices, dead SSDs, Hard drives or what ever!
+* YOU ARE CHOOSING to install this ISO with this modifications!
+* Before installing do backup from your personal data!
+* You can restore it if mess up or you don´t like it!
+* This is the MOD version that i have done for me and I like it like it is!!!
+* Do not blame me if something goes wrong on your device!
+* !!! I always advise to do a clean install then restore your data!!!
+* Don´t complain if you don´t have done anything written above!!!
 
 -------------------------------------------------------------------------------------------------
 
-https://mega.nz/file/5BRhwIpT#kp39Z5eLOmm2Cqeoz8KQWp1CuLJKCfvlE1MZkLwmtx0
+# https://mega.nz/file/5BRhwIpT#kp39Z5eLOmm2Cqeoz8KQWp1CuLJKCfvlE1MZkLwmtx0
