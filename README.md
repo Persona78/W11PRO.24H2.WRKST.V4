@@ -1889,7 +1889,7 @@ It have my personal Wallpaper and customization.
 # You can restore it if mess up or you don´t like it!
 # This is the MOD version that i have done for me and I like it like it is!!!
 # Do not blame me if something goes wrong on your device!
-# !!! I always advise to do a clean install then restoryour data!!!
+# !!! I always advise to do a clean install then restore your data!!!
 # Don´t complain if you don´t have done anything written above!!!
 
 -------------------------------------------------------------------------------------------------
