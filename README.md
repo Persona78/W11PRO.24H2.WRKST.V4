@@ -9,6 +9,8 @@
 
 This is my personal ISO image modded by me for my Aspire A515-58P Laptop
 
+----------------------------------------------------------------------
+
 Capability listing:
 Capability Identity : Accessibility.Braille~~~~0.0.1.0
 State : Not Present
