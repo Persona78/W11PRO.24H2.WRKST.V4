@@ -1,11 +1,28 @@
+
+
+
 # W11PRO.24H2.WRKST.V4
 # Windows 11 Pro for Workstations 24H2 - Personal modded version
 
-----------------------------------------------------------------------
+
+
 
 ----------------------------------------------------------------------
-| !!!Still need a Windows 11 Pro for Workstations Key to activate!!! |
+Windows 11 Pro for Workstations default image in Microsoft Words:
+
+"With all the security benefits of Windows 11 Pro and more, Windows 11 Pro for Workstations is our most powerful OS yet."
+
+https://www.microsoft.com/en-us/windows/business/windows-11-pro-workstations
 ----------------------------------------------------------------------
+
+
+
+........................................................................................................................................
+
+| !!!Still need a Windows 11 Pro for Workstations Key to activate!!! |
+
+........................................................................................................................................
+
 
 This is my personal ISO image modded by me for my Aspire A515-58P Laptop
 
@@ -1884,7 +1901,8 @@ It have 7z build in system to.
 It have my personal Wallpaper and customization.
 
 -------------------------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------------------------
+# !Notice:
 * Your warranty will be void!!!
 * Battery must be above 60% before install it!
 * I m not responsible for any bricked devices, dead SSDs, Hard drives or what ever!
@@ -1895,7 +1913,8 @@ It have my personal Wallpaper and customization.
 * Do not blame me if something goes wrong on your device!
 * !!! I always advise to do a clean install then restore your data!!!
 * Don´t complain if you don´t have done anything written above!!!
-
+-------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 
-# https://mega.nz/file/5BRhwIpT#kp39Z5eLOmm2Cqeoz8KQWp1CuLJKCfvlE1MZkLwmtx0
+# Download link:
+https://mega.nz/file/5BRhwIpT#kp39Z5eLOmm2Cqeoz8KQWp1CuLJKCfvlE1MZkLwmtx0
