@@ -10,8 +10,7 @@
 Windows 11 Pro for Workstations default image in Microsoft Words:
 
 "With all the security benefits of Windows 11 Pro and more, Windows 11 Pro for Workstations is our most powerful OS yet."
-
-https://www.microsoft.com/en-us/windows/business/windows-11-pro-workstations
+[Windows 11 Pro for Workstations](https://www.microsoft.com/en-us/windows/business/windows-11-pro-workstations)
 ----------------------------------------------------------------------
 
 
