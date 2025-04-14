@@ -9,25 +9,23 @@
 ----------------------------------------------------------------------
 Windows 11 Pro for Workstations default image in Microsoft Words:
 
-"With all the security benefits of Windows 11 Pro and more, Windows 11 Pro for Workstations is our most powerful OS yet."
+"_With all the security benefits of Windows 11 Pro and more, Windows 11 Pro for Workstations is our most powerful OS yet._"
 
 [Windows 11 Pro for Workstations](https://www.microsoft.com/en-us/windows/business/windows-11-pro-workstations)
 ----------------------------------------------------------------------
 
 
 
-........................................................................................................................................
+### .............................................................................................................................
+### ***| !!!Still need a Windows 11 Pro for Workstations Key to activate!!! |***
+### .............................................................................................................................
 
-| !!!Still need a Windows 11 Pro for Workstations Key to activate!!! |
-
-........................................................................................................................................
-
-
-This is my personal ISO image modded by me for my Aspire A515-58P Laptop
+* This is my personal ISO image modded by me for my Aspire A515-58P Laptop
 
 ----------------------------------------------------------------------
 
-Capability listing:
+### Capability listing:
+
 Capability Identity : Accessibility.Braille~~~~0.0.1.0
 State : Not Present
 
@@ -1305,7 +1303,8 @@ State : Not Present
 
 -------------------------------------------------------------------------------------------------
 
-The list of app packages (.appx or .appxbundle) in this image...
+### The list of app packages (.appx or .appxbundle) in this image...
+
 DisplayName : Microsoft.ApplicationCompatibilityEnhancements
 Version : 1.2401.10.0
 Architecture : neutral
@@ -1483,7 +1482,8 @@ Regions : all
 
 -------------------------------------------------------------------------------------------------
 
-Windows Optional Feature on this image...
+### Windows Optional Feature on this image...
+
 FeatureName : Windows-Defender-Default-Definitions
 State       : Enabled
 
@@ -1894,14 +1894,17 @@ State       : Disabled
 
 -------------------------------------------------------------------------------------------------
 
-Is possibel to create a local account on Setup and after on Settings.
-It will run a batch on first boot with tweaks, mods, etc and will install my daily apps ( Gimp, Notepad++, DirectX, VC_redist.x86 and x64 and WinRar).
-It have 7z build in system to.
-It have my personal Wallpaper and customization.
+
+* Is possibel to create a local account on Setup and after on Settings.
+* It will run a batch on first boot with tweaks, mods, etc and will install my daily apps ( Gimp, Notepad++, DirectX, VC_redist.x86 and x64 and WinRar).
+* It have 7z build in system to.
+* It have my personal Wallpaper and customization.
+
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-# !Notice:
+
+# !Info!:
 * Your warranty will be void!!!
 * Battery must be above 60% before install it!
 * I m not responsible for any bricked devices, dead SSDs, Hard drives or what ever!
