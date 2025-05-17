@@ -1897,7 +1897,7 @@ State       : Disabled
 
 * Is possibel to create a local account on Setup and after on Settings.
 * It will run a batch on first boot with tweaks, mods, etc and will install my daily apps ( Gimp, Notepad++, DirectX, VC_redist.x86 and x64 and WinRar).
-* It have Thor Browser build in system to.
+* Can be installed in old machines (Rufus modded).
 * It have my personal Wallpaper and customization.
 
 
@@ -1919,11 +1919,11 @@ State       : Disabled
 -------------------------------------------------------------------------------------------------
 
 # Download link:
-[W11PRO.24H2.WRKST.V4.3.iso](https://mega.nz/file/MRZAXCSA#zmdOpciUx048xU0Q3_GVkZx3E5O87g7Esp9r878-Bbk)
+## [W11PRO.24H2.WRKST.V4.5.iso](https://mega.nz/file/dAIlTaqY#Z_UZUHG4E24utynAL4_bF8kIffYi2S0iC9E9MgroTn8)
 
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
-# More Information on Github:
+# More Information on activation for test purpose on Github:
 
  # [sevynkooper](https://gist.github.com/sevynkooper/8e60a6038b10e57c31830f279a026bef)
 
