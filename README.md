@@ -1921,6 +1921,11 @@ State       : Disabled
 # Download link:
 ## [W11PRO.24H2.WRKST.V4.5.iso](https://mega.nz/file/dAIlTaqY#Z_UZUHG4E24utynAL4_bF8kIffYi2S0iC9E9MgroTn8)
 
+ISO Ash: 
+Algorithm       Hash                                                                   Name                            
+---------       ----                                                                   ----                            
+SHA256          F183360023AE6A39B72113402C2F023B3025D19B7374BAA8578C6CDE3F42FD98       W11PRO.24H2.WRKST.V4.5.iso 
+
 -------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------
 # More Information on activation for test purpose on Github:
